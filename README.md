@@ -1,5 +1,7 @@
 # authentication
 Authentication Project Using jQuery, AJAX and Bootstrap
+
+
 Test Case 1 : Processing Non-AJAX Request
 On entering the valid username and password and clicking on ‘Login’ button, the following output is generated.
 ![image](https://github.com/pgnaik/authentication/assets/31154391/e595f2d1-d97c-4633-b67a-f98c355cbd83)
